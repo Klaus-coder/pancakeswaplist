@@ -1,0 +1,26 @@
+{
+  "name": "Ftxf Extended",
+  "timestamp": "2021-08-31T10:38:41.215Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 18
+  },
+  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "extended",
+    "FTXF"
+  ],
+  "tokens": [
+    {
+      "name": "FTXFUND",
+      "symbol": "FTXF",
+      "address": "0xd90f0846b9d0f371b35a9fe89102c306458aa56f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://app.ftxfund.com/static/media/Asset%204.1d05a05f.png"
+    }
+    
+  ]
+}
